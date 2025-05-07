@@ -1,5 +1,7 @@
-Hi there, I'm Enzo Zanetti 👋
+### Hi there, I'm Enzo Zanetti 👋
+
 <img height="200em" alt="Me" src="https://cdn.discordapp.com/attachments/819376822700605494/872317384470454332/me.gif">
+
 🎓 Information Systems student at the University of São Paulo (USP)
 🤖 Technology and AI enthusiast
 🚀 Aspiring entrepreneur passionate about innovation and impact
@@ -20,6 +22,6 @@ Connect with me on LinkedIn
   
   <a href="https://www.linkedin.com/in/enzo-zanetti-a095502b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Matezcp/Matezcp/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/enzopcz2/enzopcz2/output/github-contribution-grid-snake.svg)
 
 </div>
